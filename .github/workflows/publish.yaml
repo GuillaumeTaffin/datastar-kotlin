@@ -9,7 +9,7 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     env:
-      GROUP_ID: dev.cloudgt.datastar
+      GROUP_ID: dev.datastar.kotlin
       ARTIFACT_ID: kotlin-sdk
     
     steps:
